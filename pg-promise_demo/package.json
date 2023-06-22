@@ -9,6 +9,6 @@
   "author": "Nep Orshiso nep.orshiso@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "pg-promise": "^9.3.3"
+    "pg-promise": "^11.5.0"
   }
 }
