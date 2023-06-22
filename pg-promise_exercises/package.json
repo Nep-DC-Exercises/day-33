@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "co": "^4.6.0",
-    "pg-promise": "^9.3.3",
+    "pg-promise": "^11.5.0",
     "prompt-promise": "^1.0.3"
   }
 }
